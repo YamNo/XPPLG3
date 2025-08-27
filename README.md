@@ -1,6 +1,6 @@
-# 📌 Roadmap Kelas X PPLG 3
+# 📌 jadwal Kelas X PPLG 3
 
-Roadmap ini dibuat berdasarkan jadwal pelajaran X PPLG 3 (27/07/2025).
+jadwal pelajaran X PPLG 3 (27/07/2025).
 
 ---
 
