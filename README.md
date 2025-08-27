@@ -1,7 +1,5 @@
 # 📌 jadwal Kelas X PPLG 3
 
-jadwal pelajaran X PPLG 3 (27/07/2025).
-
 ---
 
 ## 📅 Senin
