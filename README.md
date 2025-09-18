@@ -51,6 +51,6 @@
 
 ## 📅 Jumat
 - 06:45 - 07:30 ➝ Jumat Sehat / Jumat Berkah
-- 07:30 - 09:50 ➝ Dasar-Dasar Program Keahlian (L. 06)
+- 07:30 - 09:50 ➝ Dasar-Dasar Program Keahlian (L. 04)
 - 09:50 - 10:10 ➝ ☕ istirahat 1
 - 10:10 - 11:30 ➝ Projek Ilmu Pengetahuan Alam & Sosial (R. 206)
